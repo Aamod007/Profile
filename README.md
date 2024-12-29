@@ -26,6 +26,11 @@ Hello! I'm **Aamod Kumar**, a passionate student specializing in **Artificial In
 - **Robotics**: ROS (Robot Operating System), Arduino
 - **Tools**: Git, Docker, Jupyter Notebooks, Gazebo
 
+ <div align="center">
+  <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" alt="AI Animation" width="300"/>
+</div>
+
+
 ---
 
 # Notable Projects
@@ -60,9 +65,9 @@ For more details, check out the respective project repositories or contact me fo
 
 Feel free to connect with me for collaborations, project ideas, or just a chat about technology!
 
-- **Email**: aamod.kumar@example.com
-- **GitHub**: [@AamodKumar](https://github.com/AamodKumar)
-- **LinkedIn**: [Aamod Kumar](https://linkedin.com/in/aamodkumar)
+- **Email**: aamodkumar2006@gmail.com
+- **GitHub**: [@AamodKumar]([https://github.com/AamodKumar](https://github.com/Aamod007))
+- **LinkedIn**: [Aamod Kumar]([https://linkedin.com/in/aamodkumar](https://www.linkedin.com/in/aamod-kumar-9882782ab/))
 
 <div align="center">
   <img src="https://media.giphy.com/media/1AG4ctbMlmrwK0cFZX/giphy.gif" alt="Fun Robotics" width="300"/>
@@ -75,10 +80,6 @@ Feel free to connect with me for collaborations, project ideas, or just a chat a
 When I’m not coding or tinkering with robotics, I enjoy sketching and calligraphy, blending artistic expression with my love for technology!
 
 ---
-
-<div align="center">
-  <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" alt="AI Animation" width="300"/>
-</div>
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=AamodKumar&show_icons=true&theme=radical" alt="Aamod's GitHub stats"/>
