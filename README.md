@@ -7,9 +7,15 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=AamodKumar&theme=radical" alt="Aamod's GitHub Streak"/>
 </div>
 
+---
+
 ## 😊 About Me
 
+---
+
 Hello! I'm **Aamod Kumar**, a passionate student specializing in **Artificial Intelligence and Data Engineering**. My interests span across **Cybersecurity**, **3D Modeling**, and **Robotics**, where I strive to merge creativity and technology to build impactful solutions.
+
+---
 
 ### 🧠 Key Interests:
 - **Artificial Intelligence**: Harnessing data to create predictive models and intelligent systems.
@@ -17,11 +23,17 @@ Hello! I'm **Aamod Kumar**, a passionate student specializing in **Artificial In
 - **3D Modeling**: Crafting interactive and visually stunning 3D designs for simulations and projects.
 - **Robotics**: Exploring automation and control systems to bring ideas to life.
 
+---
+
 <div align="center">
   <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" alt="AI Animation" width="300"/>
 </div>
 
+---
+
 ## 💻 Technical Skills
+
+---
 
 - **Programming Languages**: Python, JavaScript, C++, SQL
 - **AI & Machine Learning**: TensorFlow, PyTorch, Scikit-learn
@@ -30,18 +42,21 @@ Hello! I'm **Aamod Kumar**, a passionate student specializing in **Artificial In
 - **Robotics**: ROS (Robot Operating System), Arduino
 - **Tools**: Git, Docker, Jupyter Notebooks, Gazebo
 
+---
+
 ## 🔧 Featured Projects
 
-### [AI-Powered Cybersecurity Dashboard](https://github.com/yourusername/ai-cyber-dashboard)
-A robust system combining AI with cybersecurity protocols to detect and mitigate threats in real time.
+---
 
-### [3D Robotic Arm Simulation](https://github.com/yourusername/3d-robotic-arm)
-An interactive 3D simulation of a robotic arm, designed for precision tasks.
+- **[AI-Powered Cybersecurity Dashboard](https://github.com/yourusername/ai-cyber-dashboard)**: A robust system combining AI with cybersecurity protocols to detect and mitigate threats in real time.
+- **[3D Robotic Arm Simulation](https://github.com/yourusername/3d-robotic-arm)**: An interactive 3D simulation of a robotic arm, designed for precision tasks.
+- **[Data-Driven Insights Platform](https://github.com/yourusername/data-insights-platform)**: A platform leveraging AI to provide actionable insights from large datasets.
 
-### [Data-Driven Insights Platform](https://github.com/yourusername/data-insights-platform)
-A platform leveraging AI to provide actionable insights from large datasets.
+---
 
 ## 🛠️ Tools and Technologies
+
+---
 
 <p align="left">
   <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a>
@@ -61,7 +76,11 @@ A platform leveraging AI to provide actionable insights from large datasets.
   <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a>
 </p>
 
+---
+
 ## 📩 Get in Touch
+
+---
 
 Feel free to connect with me for collaborations, project ideas, or just a chat about technology!
 
@@ -73,10 +92,19 @@ Feel free to connect with me for collaborations, project ideas, or just a chat a
   <img src="https://media.giphy.com/media/1AG4ctbMlmrwK0cFZX/giphy.gif" alt="Fun Robotics" width="300"/>
 </div>
 
+---
+
 ## ✨ Fun Fact
+
+---
+
 When I’m not coding or tinkering with robotics, I enjoy sketching and calligraphy, blending artistic expression with my love for technology!
+
+---
 
 <div align="center">
   <h3>📊 My GitHub Stats Bar</h3>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AamodKumar&layout=compact&theme=radical" alt="Top Languages"/>
 </div>
+
+---
