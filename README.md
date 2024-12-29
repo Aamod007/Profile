@@ -37,14 +37,26 @@ Hello! I'm **Aamod Kumar**, a passionate student specializing in **Artificial In
 
 ---
 
-## 🔧 Featured Projects
+# Notable Projects
+
+### 1. **AI-Powered Speech Coach Platform**  
+🎤 **Description**: Developed a speech analysis tool that provides real-time feedback, personalized training, exercises, and practice materials to help users enhance their speech skills.
+
+### 2. **Water Quality Index (WOI) Measuring App**  
+💧 **Description**: Built a comprehensive app to measure water quality using parameters like pH and turbidity, providing real-time data analysis for better water quality management.
+
+### 3. **Smart Street Lighting System with Pollution Monitoring**  
+🚦 **Description**: Created a smart street lighting system with pollution monitoring capabilities, using Arduino and ESP32-CAM to optimize energy usage while keeping the streets safe and aware of pollution levels.
+
+### 4. **Train Station Lighting Automation**  
+🚉 **Description**: Designed a system where streetlights automatically illuminate in sync with a passing train to ensure energy efficiency and safety using Arduino and sensors.
+
+### 5. **Generative AI-Based Fashion Design Platform**  
+👗 **Description**: Launched a platform that combines AI with creativity to empower fashion designers and students, providing design inspiration, trends, and idea generation powered by AI.
 
 ---
+For more details, check out the respective project repositories or contact me for further information!
 
-- **[AI-Powered Cybersecurity Dashboard](https://github.com/yourusername/ai-cyber-dashboard)**
-- A robust system combining AI with cybersecurity protocols to detect and mitigate threats in real time.
-- **[3D Robotic Arm Simulation](https://github.com/yourusername/3d-robotic-arm)**: An interactive 3D simulation of a robotic arm, designed for precision tasks.
-- **[Data-Driven Insights Platform](https://github.com/yourusername/data-insights-platform)**: A platform leveraging AI to provide actionable insights from large datasets.
 
 ---
 
