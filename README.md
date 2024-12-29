@@ -1,12 +1,5 @@
 # Aamod Kumar - AI & Data Engineering Enthusiast 🚀
 
-![Profile Logo](https://via.placeholder.com/150)
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AamodKumar&show_icons=true&theme=radical" alt="Aamod's GitHub stats"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AamodKumar&theme=radical" alt="Aamod's GitHub Streak"/>
-</div>
-
 ---
 
 ## 😊 About Me
@@ -48,7 +41,8 @@ Hello! I'm **Aamod Kumar**, a passionate student specializing in **Artificial In
 
 ---
 
-- **[AI-Powered Cybersecurity Dashboard](https://github.com/yourusername/ai-cyber-dashboard)**: A robust system combining AI with cybersecurity protocols to detect and mitigate threats in real time.
+- **[AI-Powered Cybersecurity Dashboard](https://github.com/yourusername/ai-cyber-dashboard)**
+- A robust system combining AI with cybersecurity protocols to detect and mitigate threats in real time.
 - **[3D Robotic Arm Simulation](https://github.com/yourusername/3d-robotic-arm)**: An interactive 3D simulation of a robotic arm, designed for precision tasks.
 - **[Data-Driven Insights Platform](https://github.com/yourusername/data-insights-platform)**: A platform leveraging AI to provide actionable insights from large datasets.
 
@@ -101,6 +95,11 @@ Feel free to connect with me for collaborations, project ideas, or just a chat a
 When I’m not coding or tinkering with robotics, I enjoy sketching and calligraphy, blending artistic expression with my love for technology!
 
 ---
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=AamodKumar&show_icons=true&theme=radical" alt="Aamod's GitHub stats"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AamodKumar&theme=radical" alt="Aamod's GitHub Streak"/>
+</div>
 
 <div align="center">
   <h3>📊 My GitHub Stats Bar</h3>
