@@ -2,6 +2,11 @@
 
 ![Profile Logo](https://via.placeholder.com/150)
 
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=AamodKumar&show_icons=true&theme=radical" alt="Aamod's GitHub stats"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AamodKumar&theme=radical" alt="Aamod's GitHub Streak"/>
+</div>
+
 ## About Me
 
 Hello! I'm **Aamod Kumar**, a passionate student specializing in **Artificial Intelligence and Data Engineering**. My interests span across **Cybersecurity**, **3D Modeling**, and **Robotics**, where I strive to merge creativity and technology to build impactful solutions.
@@ -11,6 +16,10 @@ Hello! I'm **Aamod Kumar**, a passionate student specializing in **Artificial In
 - **Cybersecurity**: Building secure systems to ensure data integrity and protection.
 - **3D Modeling**: Crafting interactive and visually stunning 3D designs for simulations and projects.
 - **Robotics**: Exploring automation and control systems to bring ideas to life.
+
+<div align="center">
+  <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" alt="AI Animation" width="300"/>
+</div>
 
 ## Technical Skills
 
@@ -59,6 +68,10 @@ Feel free to connect with me for collaborations, project ideas, or just a chat a
 - **Email**: aamod.kumar@example.com
 - **GitHub**: [@AamodKumar](https://github.com/AamodKumar)
 - **LinkedIn**: [Aamod Kumar](https://linkedin.com/in/aamodkumar)
+
+<div align="center">
+  <img src="https://media.giphy.com/media/1AG4ctbMlmrwK0cFZX/giphy.gif" alt="Fun Robotics" width="300"/>
+</div>
 
 ## Fun Fact
 When I’m not coding or tinkering with robotics, I enjoy sketching and calligraphy, blending artistic expression with my love for technology!
